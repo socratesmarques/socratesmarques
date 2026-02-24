@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudando HTML, CSS e JavaScript<br>16y<br>
+Estudando HTML, CSS, JavaScript e Python<br>16y<br>
 
 
 ## 🌐 Socials:
