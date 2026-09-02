@@ -1,4 +1,4 @@
-# 🖥️ `socrates@github`
+# 🖥️ 
 
 ```bash
 ┌──(socrates㉿github)-[~]
@@ -12,17 +12,18 @@ Developer • Student • Builder
 ┌──(socrates㉿github)-[~]
 └─$ neofetch
 
-OS:        Ubuntu Linux
+OS:        Linux
 Shell:     Bash
 Editor:    IntelliJ IDEA / VS Code
 Focus:     Backend Development
-Location:  Brazil
+Location:  Ceará, Brazil
 
 Languages:
-  Java       ████████████████░░░░
-  JavaScript ██████████████░░░░░░
-  Python     ███████████░░░░░░░░░
-  HTML/CSS   ███████████████░░░░░
+  Java
+  MySQL
+  JavaScript
+  Python
+  HTML/CSS 
 
 Frameworks:
   Spring Boot
