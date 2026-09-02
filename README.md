@@ -1,18 +1,113 @@
-# 💫 About Me:
-Estudando HTML, CSS, JavaScript e Python<br>16y<br>
+# 🖥️ `socrates@github`
 
+```bash
+┌──(socrates㉿github)-[~]
+└─$ whoami
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xtsct) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xt.sct) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arz.pd) 
+Sócrates Costa
+Developer • Student • Builder
+```
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sctxt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sctxt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sctxt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```bash
+┌──(socrates㉿github)-[~]
+└─$ neofetch
 
----
-[![](https://visitcount.itsvg.in/api?id=sctxt&icon=0&color=0)](https://visitcount.itsvg.in)
+OS:        Ubuntu Linux
+Shell:     Bash
+Editor:    IntelliJ IDEA / VS Code
+Focus:     Backend Development
+Location:  Brazil
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Languages:
+  Java       ████████████████░░░░
+  JavaScript ██████████████░░░░░░
+  Python     ███████████░░░░░░░░░
+  HTML/CSS   ███████████████░░░░░
+
+Frameworks:
+  Spring Boot
+  React
+  Vite
+
+Database:
+  PostgreSQL
+  Firebase
+  Firestore
+```
+
+## 📂 `~/projects`
+
+```bash
+┌──(socrates㉿github)-[~/projects]
+└─$ ls
+
+📁 eletrolab/
+📁 regor/
+📁 agenda-de-contatos/
+📁 calculadora-penal/
+```
+
+### ⚡ `~/projects/eletrolab`
+
+```bash
+┌──(socrates㉿github)-[~/projects/eletrolab]
+└─$ cat README.md
+
+Sistema para laboratório de eletrônica.
+
+Stack:
+→ React
+→ Firebase
+→ Prisma
+→ JavaScript
+
+Status: █████████████████░░░ 85%
+```
+
+## 🧠 `~/learning`
+
+```bash
+┌──(socrates㉿github)-[~]
+└─$ cat learning.txt
+
+[+] Java
+[+] Git & GitHub
+[+] SQL
+[+] APIs REST
+[+] React
+[>] Spring Boot
+[>] Software Architecture
+```
+
+## ⚙️ `~/status`
+
+```bash
+┌──(socrates㉿github)-[~]
+└─$ uptime
+
+Currently building.
+Currently learning.
+Currently breaking things.
+```
+
+## 💭 `~/philosophy`
+
+> First make it work.
+> Then understand why it works.
+> Then make it better.
+
+## 📡 `~/contact`
+
+```bash
+┌──(socrates㉿github)-[~]
+└─$ echo $CONTACT
+
+GitHub: github.com/socratesmarques
+```
+
+```bash
+┌──(socrates㉿github)-[~]
+└─$ exit
+
+Connection closed.
+```
