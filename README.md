@@ -13,7 +13,6 @@ Developer • Student • Builder
 └─$ neofetch
 
 OS:        Linux
-Shell:     Bash
 Editor:    IntelliJ IDEA / VS Code
 Focus:     Backend Development
 Location:  Ceará, Brazil
@@ -34,18 +33,6 @@ Database:
   PostgreSQL
   Firebase
   Firestore
-```
-
-## 📂 `~/projects`
-
-```bash
-┌──(socrates㉿github)-[~/projects]
-└─$ ls
-
-📁 eletrolab/
-📁 regor/
-📁 agenda-de-contatos/
-📁 calculadora-penal/
 ```
 
 ### ⚡ `~/projects/eletrolab`
@@ -91,12 +78,6 @@ Currently learning.
 Currently breaking things.
 ```
 
-## 💭 `~/philosophy`
-
-> First make it work.
-> Then understand why it works.
-> Then make it better.
-
 ## 📡 `~/contact`
 
 ```bash
@@ -104,11 +85,6 @@ Currently breaking things.
 └─$ echo $CONTACT
 
 GitHub: github.com/socratesmarques
-```
-
-```bash
-┌──(socrates㉿github)-[~]
-└─$ exit
-
-Connection closed.
+Instagram: https://www.instagram.com/xt.sct/
+Discord: xt.sct
 ```
