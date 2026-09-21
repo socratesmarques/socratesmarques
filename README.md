@@ -1,90 +1,22 @@
-# 🖥️ socratesmarques
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pushpneetsingh/)](https://www.linkedin.com/in/pushpneetsingh/) 
+[![Gmail Badge](https://img.shields.io/badge/-pushpneetsingh99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pushpneetsingh99@gmail.com)](mailto:pushpneetsingh99@gmail.com)
+[![Badge](https://img.shields.io/badge/-Pushpneet_Singh-FFA116?style=flat-square&logo=Leetcode&logoColor=white&link=(https://leetcode.com/pushpneetsingh/))](https://leetcode.com/pushpneetsingh/) 
+-->
 
-```bash
-┌──(socrates㉿github)-[~]
-└─$ whoami
+<img align='center' src='https://media.tenor.com/mEHdktPrBB4AAAAM/sung-jin-woo-jin-woo.gif' width='200"'>
 
-Sócrates Costa
-Developer • Student • Builder
-```
+## 😃 Talk to me about!!
 
-```bash
-┌──(socrates㉿github)-[~]
-└─$ neofetch
+- Data Engineering
+- Backend development 
+- Machine Learning
 
-OS:        Linux
-Editor:    IntelliJ IDEA / VS Code
-Focus:     Backend Development
-Location:  Ceará, Brazil
+## Tech Stack
 
-Languages:
-  Java
-  MySQL
-  JavaScript
-  Python
-  HTML/CSS 
+- **Language**: Java • Python • C++
+- **Data**: Spark • Hadoop • SQL • Data Modelling • Data Warehousing • AWS/GCP • Airflow • Snowflake
+- **Development**: FastAPI • REST API • Git • Linux • Docker
 
-Frameworks:
-  Spring Boot
-  React
-  Vite
+<!-- - Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/) -->
 
-Database:
-  PostgreSQL
-  Firebase
-  Firestore
-```
-
-### ⚡ `~/projects/eletrolab`
-
-```bash
-┌──(socrates㉿github)-[~/projects/eletrolab]
-└─$ cat README.md
-
-Sistema para laboratório de eletrônica.
-
-Stack:
-→ React
-→ Firebase
-→ Prisma
-→ JavaScript
-
-Status: █████████████████░░░ 85%
-```
-
-## 🧠 `~/learning`
-
-```bash
-┌──(socrates㉿github)-[~]
-└─$ cat learning.txt
-
-[+] Java
-[+] Git & GitHub
-[+] SQL
-[+] APIs REST
-[+] React
-[>] Spring Boot
-[>] Software Architecture
-```
-
-## ⚙️ `~/status`
-
-```bash
-┌──(socrates㉿github)-[~]
-└─$ uptime
-
-Currently building.
-Currently learning.
-Currently breaking things.
-```
-
-## 📡 `~/contact`
-
-```bash
-┌──(socrates㉿github)-[~]
-└─$ echo $CONTACT
-
-GitHub: github.com/socratesmarques
-Instagram: https://www.instagram.com/xt.sct/
-Discord: xt.sct
-```
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh) -->
