@@ -14,7 +14,7 @@
 ## Tech Stack
 
 - **Language**: Java • Python • C++
-- **Data**: Spark • Hadoop • SQL • Data Modelling • Data Warehousing • AWS/GCP • Airflow • Snowflake
+- **Data**: MySQL • Data Modelling • SQLite
 - **Development**: FastAPI • REST API • Git • Linux • Docker
 
 <!-- - Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/) -->
