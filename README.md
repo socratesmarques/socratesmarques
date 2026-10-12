@@ -17,6 +17,15 @@
 - **Data**: MySQL • Data Modelling • SQLite
 - **Development**: FastAPI • REST API • Git • Linux • Docker
 
+## Learning
+
+### 💻 Tecnologias & Frameworks
+- **Front-end:** [Tailwind CSS, TypeScript]
+- **Back-end & APIs:** [Node.js]
+- **Database:** [PostgreSQL, MongoDB, Redis (Caching)]  
+<hr>
+
+Se o caminho está difícil, quer dizer que estamos subindo.
 <!-- - Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/) -->
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh) -->
