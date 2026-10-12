@@ -19,7 +19,6 @@
 
 ## Learning
 
-### 💻 Tecnologias & Frameworks
 - **Front-end:** [Tailwind CSS, TypeScript]
 - **Back-end & APIs:** [Node.js]
 - **Database:** [PostgreSQL, MongoDB, Redis (Caching)]  
